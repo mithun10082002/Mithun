@@ -4,19 +4,19 @@
 <h3 align="center">I'm a passionate Front-End Web developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-<a href="https://twitter.com/imedwinfrancis">
+<a href="https://twitter.com/MithunRajS6">
   <img align="left" alt="edwin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/imedwinfrancis">
+<a href="https://www.linkedin.com/in/mithun-raj-88035521a/">
   <img align="left" alt="edwin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Edwin-francis">
+<a href="https://github.com/mithun10082002">
   <img align="left" alt="edwin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/me_edwinfrancis__/">
+<a href="https://www.instagram.com/smithunraj10/">
   <img align="left" alt="edwin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/edwin.don.754">
+<a href="https://www.facebook.com/Mithunraj007/">
   <img align="left" alt="edwin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
