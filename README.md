@@ -27,13 +27,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Machine Learning using Python**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **edwinfrancis.18.ef@gmail.com**
+- 📫 How to reach me **smithunraj007@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I watch cricket and how fun with friends**
 
 ## 🚀 Languages and Tools:
 
