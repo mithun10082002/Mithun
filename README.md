@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **smithunraj007@gmail.com**
 
-- ⚡ Fun fact **I watch cricket and how fun with friends**
+- ⚡ Fun fact **I watch cricket and have fun with friends**
 
 ## 🚀 Languages and Tools:
 
