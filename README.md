@@ -7,7 +7,7 @@
 <a href="https://twitter.com/MithunRajS6">
   <img align="left" alt="edwin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mithun-raj-88035521a/">
+<a href="https://www.linkedin.com/in/mithun-raj-sekar-88035521a/">
   <img align="left" alt="edwin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/mithun10082002">
@@ -79,7 +79,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/mithun-raj-88035521a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/mithun-raj-sekar-88035521a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/MithunRajS6"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/smithunraj10/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
